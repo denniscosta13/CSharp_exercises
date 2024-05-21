@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\ex001\\exercicioum\\exercicioum\\ex001_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|solutionrelative:exercicioum\\ex001_6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\ex001\\exercicioum\\exercicioum\\ex001_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|solutionrelative:exercicioum\\ex001_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\ex001\\exercicioum\\exercicioum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|solutionrelative:exercicioum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\ex001\\exercicioum\\exercicioum\\ex001_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|solutionrelative:exercicioum\\ex001_5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\ex001\\exercicioum\\exercicioum\\ex001_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|solutionrelative:exercicioum\\ex001_4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\ex001\\exercicioum\\exercicioum\\ex001_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|solutionrelative:exercicioum\\ex001_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\ex001\\exercicioum\\exercicioum\\ex001_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{346C935A-C8F3-47AD-8530-C0E0482F6DF8}|ExercicioUm\\ExercicioUm.csproj|solutionrelative:exercicioum\\ex001_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioUm\\Program.cs",
+              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\Program.cs",
+              "RelativeToolTip": "ExercicioUm\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:03:00.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ex001_1.cs",
+              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_1.cs",
+              "RelativeDocumentMoniker": "ExercicioUm\\ex001_1.cs",
+              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_1.cs",
+              "RelativeToolTip": "ExercicioUm\\ex001_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:59:37.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex001_2.cs",
+              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_2.cs",
+              "RelativeDocumentMoniker": "ExercicioUm\\ex001_2.cs",
+              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_2.cs",
+              "RelativeToolTip": "ExercicioUm\\ex001_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:59:30.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ex001_3.cs",
+              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_3.cs",
+              "RelativeDocumentMoniker": "ExercicioUm\\ex001_3.cs",
+              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_3.cs",
+              "RelativeToolTip": "ExercicioUm\\ex001_3.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:58:42.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ex001_4.cs",
+              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_4.cs",
+              "RelativeDocumentMoniker": "ExercicioUm\\ex001_4.cs",
+              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_4.cs",
+              "RelativeToolTip": "ExercicioUm\\ex001_4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:21:47.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ex001_5.cs",
+              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_5.cs",
+              "RelativeDocumentMoniker": "ExercicioUm\\ex001_5.cs",
+              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_5.cs",
+              "RelativeToolTip": "ExercicioUm\\ex001_5.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:26:43.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex001_6.cs",
+              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_6.cs",
+              "RelativeDocumentMoniker": "ExercicioUm\\ex001_6.cs",
+              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\ex001\\ExercicioUm\\ExercicioUm\\ex001_6.cs",
+              "RelativeToolTip": "ExercicioUm\\ex001_6.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwB8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T21:43:53.678Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

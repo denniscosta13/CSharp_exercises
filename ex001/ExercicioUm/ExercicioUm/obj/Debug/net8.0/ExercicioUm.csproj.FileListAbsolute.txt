@@ -1,0 +1,14 @@
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\obj\Debug\net8.0\ExercicioUm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\obj\Debug\net8.0\ExercicioUm.AssemblyInfoInputs.cache
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\obj\Debug\net8.0\ExercicioUm.AssemblyInfo.cs
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\obj\Debug\net8.0\ExercicioUm.csproj.CoreCompileInputs.cache
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\bin\Debug\net8.0\ExercicioUm.exe
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\bin\Debug\net8.0\ExercicioUm.deps.json
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\bin\Debug\net8.0\ExercicioUm.runtimeconfig.json
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\bin\Debug\net8.0\ExercicioUm.dll
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\bin\Debug\net8.0\ExercicioUm.pdb
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\obj\Debug\net8.0\ExercicioUm.dll
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\obj\Debug\net8.0\refint\ExercicioUm.dll
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\obj\Debug\net8.0\ExercicioUm.pdb
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\obj\Debug\net8.0\ExercicioUm.genruntimeconfig.cache
+C:\Users\dnns9\source\repos\exercicios\ex001\ExercicioUm\ExercicioUm\obj\Debug\net8.0\ref\ExercicioUm.dll
