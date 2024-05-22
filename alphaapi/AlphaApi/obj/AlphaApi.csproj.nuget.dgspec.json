@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dnns9\\source\\repos\\exercicios\\alphaapi\\AlphaApi\\AlphaApi.csproj": {}
+    "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\alphaapi\\AlphaApi\\AlphaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dnns9\\source\\repos\\exercicios\\alphaapi\\AlphaApi\\AlphaApi.csproj": {
+    "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\alphaapi\\AlphaApi\\AlphaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dnns9\\source\\repos\\exercicios\\alphaapi\\AlphaApi\\AlphaApi.csproj",
+        "projectUniqueName": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\alphaapi\\AlphaApi\\AlphaApi.csproj",
         "projectName": "AlphaApi",
-        "projectPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\alphaapi\\AlphaApi\\AlphaApi.csproj",
-        "packagesPath": "C:\\Users\\dnns9\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\alphaapi\\AlphaApi\\obj\\",
+        "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\alphaapi\\AlphaApi\\AlphaApi.csproj",
+        "packagesPath": "C:\\Users\\dennis.costa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\alphaapi\\AlphaApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dnns9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dennis.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
