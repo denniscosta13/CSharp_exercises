@@ -4,9 +4,8 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace AlphaApi.Controllers;
 
-[Route("api/[controller]")]
-[ApiController]
-public class UserController : ControllerBase
+
+public class UserController : AlphaApiBaseController
 {
     [HttpGet]
     [Route("{id}")]
