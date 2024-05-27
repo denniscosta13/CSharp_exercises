@@ -89,7 +89,7 @@ Application
 |           |   UpdatePetUseCase.cs          
 ```
 
-Cada classe dessa possui um método `Execute()` que pode ou não receber um paramentro e que manipula os dados necessário, seja para alterar ou obter dados de um banco de dados, enviar um e-mail, etc.
+Cada classe dessa possui um método `Execute()` que pode ou não receber um parâmetro e que manipula os dados necessário, seja para alterar ou obter dados de um banco de dados, enviar um e-mail, etc.
 
 Para este exemplo inicial, o método instancia uma classe de Response com os valores fictícios:
 
