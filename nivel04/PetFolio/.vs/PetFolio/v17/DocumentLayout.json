@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel04\\PetFolio\\",
+  "WorkspaceRootPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel04\\PetFolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52935E0D-8DBB-4367-8D1C-910A5EA2A0B3}|PetFolio.API\\PetFolio.API.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel04\\petfolio\\petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52935E0D-8DBB-4367-8D1C-910A5EA2A0B3}|PetFolio.API\\PetFolio.API.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\nivel04\\petfolio\\petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52935E0D-8DBB-4367-8D1C-910A5EA2A0B3}|PetFolio.API\\PetFolio.API.csproj|solutionrelative:petfolio.api\\controllers\\petcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79B4B6D2-C02A-42E4-AFA4-20CA0FB47827}|PetFolio.Communication\\PetFolio.Communication.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel04\\petfolio\\petfolio.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79B4B6D2-C02A-42E4-AFA4-20CA0FB47827}|PetFolio.Communication\\PetFolio.Communication.csproj|solutionrelative:petfolio.communication\\responses\\responseerrorsjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D92F0AB9-6F41-4AA0-89DF-C45F04B064C2}|PetFolio.Application\\PetFolio.Application.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel04\\petfolio\\petfolio.application\\usecases\\pets\\update\\updatepetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D92F0AB9-6F41-4AA0-89DF-C45F04B064C2}|PetFolio.Application\\PetFolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pets\\update\\updatepetusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79B4B6D2-C02A-42E4-AFA4-20CA0FB47827}|PetFolio.Communication\\PetFolio.Communication.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel04\\petfolio\\petfolio.communication\\requests\\requestpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79B4B6D2-C02A-42E4-AFA4-20CA0FB47827}|PetFolio.Communication\\PetFolio.Communication.csproj|solutionrelative:petfolio.communication\\requests\\requestpetjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D92F0AB9-6F41-4AA0-89DF-C45F04B064C2}|PetFolio.Application\\PetFolio.Application.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\nivel04\\petfolio\\petfolio.application\\usecases\\pets\\delete\\deletepetbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D92F0AB9-6F41-4AA0-89DF-C45F04B064C2}|PetFolio.Application\\PetFolio.Application.csproj|solutionrelative:petfolio.application\\usecases\\pets\\delete\\deletepetbyid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,56 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ResponseErrorsJson.cs",
-              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel04\\PetFolio\\PetFolio.Communication\\Responses\\ResponseErrorsJson.cs",
-              "RelativeDocumentMoniker": "PetFolio.Communication\\Responses\\ResponseErrorsJson.cs",
-              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel04\\PetFolio\\PetFolio.Communication\\Responses\\ResponseErrorsJson.cs",
-              "RelativeToolTip": "PetFolio.Communication\\Responses\\ResponseErrorsJson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Title": "DeletePetById.cs",
+              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel04\\PetFolio\\PetFolio.Application\\UseCases\\Pets\\Delete\\DeletePetById.cs",
+              "RelativeDocumentMoniker": "PetFolio.Application\\UseCases\\Pets\\Delete\\DeletePetById.cs",
+              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel04\\PetFolio\\PetFolio.Application\\UseCases\\Pets\\Delete\\DeletePetById.cs",
+              "RelativeToolTip": "PetFolio.Application\\UseCases\\Pets\\Delete\\DeletePetById.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T17:58:56.091Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UpdatePetUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel04\\PetFolio\\PetFolio.Application\\UseCases\\Pets\\Update\\UpdatePetUseCase.cs",
-              "RelativeDocumentMoniker": "PetFolio.Application\\UseCases\\Pets\\Update\\UpdatePetUseCase.cs",
-              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel04\\PetFolio\\PetFolio.Application\\UseCases\\Pets\\Update\\UpdatePetUseCase.cs",
-              "RelativeToolTip": "PetFolio.Application\\UseCases\\Pets\\Update\\UpdatePetUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T17:48:17.218Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RequestPetJson.cs",
-              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel04\\PetFolio\\PetFolio.Communication\\Requests\\RequestPetJson.cs",
-              "RelativeDocumentMoniker": "PetFolio.Communication\\Requests\\RequestPetJson.cs",
-              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel04\\PetFolio\\PetFolio.Communication\\Requests\\RequestPetJson.cs",
-              "RelativeToolTip": "PetFolio.Communication\\Requests\\RequestPetJson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-27T15:50:39.628Z",
+              "WhenOpened": "2024-05-27T22:33:55.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PetController.cs",
-              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel04\\PetFolio\\PetFolio.API\\Controllers\\PetController.cs",
+              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel04\\PetFolio\\PetFolio.API\\Controllers\\PetController.cs",
               "RelativeDocumentMoniker": "PetFolio.API\\Controllers\\PetController.cs",
-              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel04\\PetFolio\\PetFolio.API\\Controllers\\PetController.cs",
+              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel04\\PetFolio\\PetFolio.API\\Controllers\\PetController.cs",
               "RelativeToolTip": "PetFolio.API\\Controllers\\PetController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAFAAAA",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwEEAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-27T15:44:56.519Z",
               "EditorCaption": ""

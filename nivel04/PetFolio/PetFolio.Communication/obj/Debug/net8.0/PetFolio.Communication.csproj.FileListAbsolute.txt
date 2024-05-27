@@ -10,3 +10,15 @@ C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFoli
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\refint\PetFolio.Communication.dll
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.pdb
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\ref\PetFolio.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\bin\Debug\net8.0\PetFolio.Communication.deps.json
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\bin\Debug\net8.0\PetFolio.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\bin\Debug\net8.0\PetFolio.Communication.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.AssemblyInfoInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.AssemblyInfo.cs
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.csproj.CoreCompileInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.sourcelink.json
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\refint\PetFolio.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\ref\PetFolio.Communication.dll
