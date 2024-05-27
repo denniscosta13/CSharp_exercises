@@ -1,0 +1,12 @@
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\bin\Debug\net8.0\PetFolio.Communication.deps.json
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\bin\Debug\net8.0\PetFolio.Communication.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\bin\Debug\net8.0\PetFolio.Communication.pdb
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.AssemblyInfoInputs.cache
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.AssemblyInfo.cs
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.csproj.CoreCompileInputs.cache
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.sourcelink.json
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\refint\PetFolio.Communication.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\PetFolio.Communication.pdb
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\PetFolio\PetFolio.Communication\obj\Debug\net8.0\ref\PetFolio.Communication.dll

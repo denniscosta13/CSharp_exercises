@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PetFolio.Application/1.0.0": {
+        "dependencies": {
+          "PetFolio.Communication": "1.0.0"
+        },
+        "runtime": {
+          "PetFolio.Application.dll": {}
+        }
+      },
+      "PetFolio.Communication/1.0.0": {
+        "runtime": {
+          "PetFolio.Communication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PetFolio.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PetFolio.Communication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
