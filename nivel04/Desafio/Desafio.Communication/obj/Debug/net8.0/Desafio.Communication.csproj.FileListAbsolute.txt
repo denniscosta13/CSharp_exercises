@@ -1,0 +1,12 @@
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\bin\Debug\net8.0\Desafio.Communication.deps.json
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\bin\Debug\net8.0\Desafio.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\bin\Debug\net8.0\Desafio.Communication.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\obj\Debug\net8.0\Desafio.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\obj\Debug\net8.0\Desafio.Communication.AssemblyInfoInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\obj\Debug\net8.0\Desafio.Communication.AssemblyInfo.cs
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\obj\Debug\net8.0\Desafio.Communication.csproj.CoreCompileInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\obj\Debug\net8.0\Desafio.Communication.sourcelink.json
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\obj\Debug\net8.0\Desafio.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\obj\Debug\net8.0\refint\Desafio.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\obj\Debug\net8.0\Desafio.Communication.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Communication\obj\Debug\net8.0\ref\Desafio.Communication.dll

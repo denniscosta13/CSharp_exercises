@@ -1,0 +1,16 @@
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\bin\Debug\net8.0\Desafio.Application.deps.json
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\bin\Debug\net8.0\Desafio.Application.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\bin\Debug\net8.0\Desafio.Application.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\bin\Debug\net8.0\Desafio.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\bin\Debug\net8.0\Desafio.Communication.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\Desafio.Application.csproj.AssemblyReference.cache
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\Desafio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\Desafio.Application.AssemblyInfoInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\Desafio.Application.AssemblyInfo.cs
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\Desafio.Application.csproj.CoreCompileInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\Desafio.Application.sourcelink.json
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\Desafio..2F21D320.Up2Date
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\Desafio.Application.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\refint\Desafio.Application.dll
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\Desafio.Application.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\obj\Debug\net8.0\ref\Desafio.Application.dll
