@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaoDuro.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd11818c3e63a8ab765736d1c13b5d4a3da83bd6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cb1a74662e08d99adf365f90f5e3a784e2eeb153")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaoDuro.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaoDuro.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

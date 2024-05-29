@@ -1,0 +1,12 @@
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\bin\Debug\net8.0\PaoDuro.Exception.deps.json
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\bin\Debug\net8.0\PaoDuro.Exception.dll
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\bin\Debug\net8.0\PaoDuro.Exception.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\obj\Debug\net8.0\PaoDuro.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\obj\Debug\net8.0\PaoDuro.Exception.AssemblyInfoInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\obj\Debug\net8.0\PaoDuro.Exception.AssemblyInfo.cs
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\obj\Debug\net8.0\PaoDuro.Exception.csproj.CoreCompileInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\obj\Debug\net8.0\PaoDuro.Exception.sourcelink.json
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\obj\Debug\net8.0\PaoDuro.Exception.dll
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\obj\Debug\net8.0\refint\PaoDuro.Exception.dll
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\obj\Debug\net8.0\PaoDuro.Exception.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Exception\obj\Debug\net8.0\ref\PaoDuro.Exception.dll

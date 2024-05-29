@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PaoDuro.API.props" />
+</Project>

@@ -1,0 +1,12 @@
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\bin\Debug\net8.0\PaoDuro.Communication.deps.json
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\bin\Debug\net8.0\PaoDuro.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\bin\Debug\net8.0\PaoDuro.Communication.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\obj\Debug\net8.0\PaoDuro.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\obj\Debug\net8.0\PaoDuro.Communication.AssemblyInfoInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\obj\Debug\net8.0\PaoDuro.Communication.AssemblyInfo.cs
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\obj\Debug\net8.0\PaoDuro.Communication.csproj.CoreCompileInputs.cache
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\obj\Debug\net8.0\PaoDuro.Communication.sourcelink.json
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\obj\Debug\net8.0\PaoDuro.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\obj\Debug\net8.0\refint\PaoDuro.Communication.dll
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\obj\Debug\net8.0\PaoDuro.Communication.pdb
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.Communication\obj\Debug\net8.0\ref\PaoDuro.Communication.dll
