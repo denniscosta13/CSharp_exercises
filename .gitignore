@@ -1,4 +1,4 @@
-.vs
-bin
+.vs/
+[Bb]in/
 key
 key.pub

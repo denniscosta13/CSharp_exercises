@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\nivel05\\PaoDuro",
+    "\\nivel05\\PaoDuro\\src",
+    "\\nivel05\\PaoDuro\\src\\PaoDuro.API",
+    "\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Controllers"
   ],
-  "SelectedNode": "\\C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises",
+  "SelectedNode": "\\nivel05",
   "PreviewInSolutionExplorer": false
 }
