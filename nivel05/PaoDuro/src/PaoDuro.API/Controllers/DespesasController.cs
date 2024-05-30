@@ -2,6 +2,7 @@
 using PaoDuro.Application.UseCase.Despesas.Register;
 using PaoDuro.Communication.Requests;
 using PaoDuro.Communication.Responses;
+using PaoDuro.Exception.Exceptions;
 
 namespace PaoDuro.API.Controllers;
 
@@ -21,9 +22,9 @@ public class DespesasController : ControllerBase
 
             return Created(string.Empty, response);
         }
-        catch (ArgumentException ex)
+        catch (ErrorOnValidationException ex)
         {
-            var errorResponse = new ResponseErrorJson(ex.Message);
+            var errorResponse = new ResponseErrorJson(ex.Errors);
 
             return BadRequest(errorResponse);
         }

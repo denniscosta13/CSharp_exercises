@@ -38,3 +38,5 @@ C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.API\obj\Debug
 C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.API\obj\Debug\net8.0\PaoDuro.API.pdb
 C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.API\obj\Debug\net8.0\PaoDuro.API.genruntimeconfig.cache
 C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.API\obj\Debug\net8.0\ref\PaoDuro.API.dll
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\dnns9\source\repos\exercicios\nivel05\PaoDuro\src\PaoDuro.API\obj\Debug\net8.0\PaoDuro.API.MvcApplicationPartsAssemblyInfo.cs
