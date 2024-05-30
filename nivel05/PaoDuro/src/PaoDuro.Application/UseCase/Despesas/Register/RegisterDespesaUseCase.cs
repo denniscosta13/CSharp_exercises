@@ -15,29 +15,13 @@ public class RegisterDespesaUseCase
 
     private void Validate(RequestRegisterDespesaJson request)
     {
-        var titleIsEmpty = string.IsNullOrWhiteSpace(request.Title);
-        if(titleIsEmpty)
+        var validator = new RegisterDespesaValidator();
+        var result = validator.Validate(request);
+
+        if (!result.IsValid)
         {
-            throw new ArgumentException("Título é obrigatório.");
+            var errorMessages = result.Errors.Select(f => f.ErrorMessage).ToList();
+            throw new ArgumentException();
         }
-
-        if(request.Amount <= 0)
-        {
-            throw new ArgumentException("Valor precisa ser maior que 0.");
-        }
-
-        var futureDate = DateTime.Compare(request.Date, DateTime.UtcNow);
-        if(futureDate > 0)
-        {
-            throw new ArgumentException("Você não pode adicionar despesas futuras.");
-        }
-
-        var paymentTypeIsValid = Enum.IsDefined(typeof(PaymentType), request.PaymentType);
-
-        if(!paymentTypeIsValid) 
-        {
-            throw new ArgumentException("Forma de pagamento inválida.");
-        }
-
     }
 }
