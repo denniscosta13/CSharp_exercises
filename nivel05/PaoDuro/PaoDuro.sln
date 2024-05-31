@@ -7,17 +7,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1976E014-6A8
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{3B0CB75D-2A05-4999-BE29-CF957FC5D11D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaoDuro.API", "src\PaoDuro.API\PaoDuro.API.csproj", "{E414D7A7-B698-4FE3-8721-A76FB66D8F27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaoDuro.API", "src\PaoDuro.API\PaoDuro.API.csproj", "{E414D7A7-B698-4FE3-8721-A76FB66D8F27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaoDuro.Communication", "src\PaoDuro.Communication\PaoDuro.Communication.csproj", "{B5DA07BB-C310-4B2A-985F-611BE038E3A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaoDuro.Communication", "src\PaoDuro.Communication\PaoDuro.Communication.csproj", "{B5DA07BB-C310-4B2A-985F-611BE038E3A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaoDuro.Domain", "src\PaoDuro.Domain\PaoDuro.Domain.csproj", "{1C25DA2E-09E4-4F40-BFC6-D9E638D9EAC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaoDuro.Domain", "src\PaoDuro.Domain\PaoDuro.Domain.csproj", "{1C25DA2E-09E4-4F40-BFC6-D9E638D9EAC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaoDuro.Application", "src\PaoDuro.Application\PaoDuro.Application.csproj", "{EC705753-24DD-496D-AA72-42CF69F0A2A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaoDuro.Application", "src\PaoDuro.Application\PaoDuro.Application.csproj", "{EC705753-24DD-496D-AA72-42CF69F0A2A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaoDuro.Exception", "src\PaoDuro.Exception\PaoDuro.Exception.csproj", "{7D3B24DB-D297-48E9-8FB1-4FDE4B8DE118}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaoDuro.Exception", "src\PaoDuro.Exception\PaoDuro.Exception.csproj", "{7D3B24DB-D297-48E9-8FB1-4FDE4B8DE118}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaoDuro.Infrastructure", "src\PaoDuro.Infrastructure\PaoDuro.Infrastructure.csproj", "{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaoDuro.Infrastructure", "src\PaoDuro.Infrastructure\PaoDuro.Infrastructure.csproj", "{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validators.Tests", "tests\Validators.Tests\Validators.Tests.csproj", "{CB53D4CA-EECB-41D7-B2D2-107DD31DF605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonTestUtility", "tests\CommonTestUtility\CommonTestUtility.csproj", "{9B2DD158-3ABA-44D6-AFD8-E5CA6F5F206F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +53,14 @@ Global
 		{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB53D4CA-EECB-41D7-B2D2-107DD31DF605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB53D4CA-EECB-41D7-B2D2-107DD31DF605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB53D4CA-EECB-41D7-B2D2-107DD31DF605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB53D4CA-EECB-41D7-B2D2-107DD31DF605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B2DD158-3ABA-44D6-AFD8-E5CA6F5F206F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B2DD158-3ABA-44D6-AFD8-E5CA6F5F206F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B2DD158-3ABA-44D6-AFD8-E5CA6F5F206F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B2DD158-3ABA-44D6-AFD8-E5CA6F5F206F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,6 +72,8 @@ Global
 		{EC705753-24DD-496D-AA72-42CF69F0A2A1} = {1976E014-6A83-4331-AF83-E193611AED35}
 		{7D3B24DB-D297-48E9-8FB1-4FDE4B8DE118} = {1976E014-6A83-4331-AF83-E193611AED35}
 		{B85D14FC-2A18-4A80-98DC-7ED71A62BADD} = {1976E014-6A83-4331-AF83-E193611AED35}
+		{CB53D4CA-EECB-41D7-B2D2-107DD31DF605} = {3B0CB75D-2A05-4999-BE29-CF957FC5D11D}
+		{9B2DD158-3ABA-44D6-AFD8-E5CA6F5F206F} = {3B0CB75D-2A05-4999-BE29-CF957FC5D11D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {921DBE6A-3BA4-453C-BDE8-2861EC638082}

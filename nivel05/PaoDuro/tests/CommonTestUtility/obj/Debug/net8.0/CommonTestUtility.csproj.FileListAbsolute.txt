@@ -1,0 +1,16 @@
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\bin\Debug\net8.0\CommonTestUtility.deps.json
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\bin\Debug\net8.0\CommonTestUtility.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\bin\Debug\net8.0\CommonTestUtility.pdb
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\bin\Debug\net8.0\PaoDuro.Communication.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\bin\Debug\net8.0\PaoDuro.Communication.pdb
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\CommonTestUtility.csproj.AssemblyReference.cache
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\CommonTestUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\CommonTestUtility.AssemblyInfoInputs.cache
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\CommonTestUtility.AssemblyInfo.cs
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\CommonTestUtility.csproj.CoreCompileInputs.cache
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\CommonTestUtility.sourcelink.json
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\CommonTe.D535AE05.Up2Date
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\CommonTestUtility.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\refint\CommonTestUtility.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\CommonTestUtility.pdb
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\CommonTestUtility\obj\Debug\net8.0\ref\CommonTestUtility.dll
