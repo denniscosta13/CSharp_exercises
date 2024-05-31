@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "src\\PaoDuro.API\\Middleware\\CultureMiddleware.cs",
               "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Middleware\\CultureMiddleware.cs",
               "RelativeToolTip": "src\\PaoDuro.API\\Middleware\\CultureMiddleware.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCEAAAAxAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwCUAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T15:01:21.342Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:54:48.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T16:54:48.136Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaUseCase.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:49:00.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T16:49:00.548Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "src\\PaoDuro.API\\Controllers\\DespesasController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:48:53.989Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T16:48:53.989Z"
             }
           ]
         }
