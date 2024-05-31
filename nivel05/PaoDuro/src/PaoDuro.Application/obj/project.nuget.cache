@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "USpT/qjrKHLU7NsTd7VMCm7jEvyLmY8qTldG5DHvVyBJZ7a7pC3+TVUFcLxITRP9xE7AUJbcOHCHq2Qa072PcQ==",
+  "dgSpecHash": "rHSBhOnv3Mo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\PaoDuro.Application.csproj",
+  "projectFilePath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\PaoDuro.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dnns9\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512"
+    "C:\\Users\\dennis.costa\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512"
   ],
   "logs": []
 }

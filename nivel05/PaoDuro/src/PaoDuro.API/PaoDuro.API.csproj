@@ -14,6 +14,7 @@
     <ProjectReference Include="..\PaoDuro.Application\PaoDuro.Application.csproj" />
     <ProjectReference Include="..\PaoDuro.Communication\PaoDuro.Communication.csproj" />
     <ProjectReference Include="..\PaoDuro.Exception\PaoDuro.Exception.csproj" />
+    <ProjectReference Include="..\PaoDuro.Infrastructure\PaoDuro.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

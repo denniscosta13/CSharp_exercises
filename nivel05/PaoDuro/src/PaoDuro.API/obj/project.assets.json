@@ -147,6 +147,19 @@
         "runtime": {
           "bin/placeholder/PaoDuro.Exception.dll": {}
         }
+      },
+      "PaoDuro.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "PaoDuro.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PaoDuro.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PaoDuro.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -543,6 +556,11 @@
       "type": "project",
       "path": "../PaoDuro.Exception/PaoDuro.Exception.csproj",
       "msbuildProject": "../PaoDuro.Exception/PaoDuro.Exception.csproj"
+    },
+    "PaoDuro.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../PaoDuro.Infrastructure/PaoDuro.Infrastructure.csproj",
+      "msbuildProject": "../PaoDuro.Infrastructure/PaoDuro.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -550,27 +568,28 @@
       "PaoDuro.Application >= 1.0.0",
       "PaoDuro.Communication >= 1.0.0",
       "PaoDuro.Exception >= 1.0.0",
+      "PaoDuro.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dnns9\\.nuget\\packages\\": {},
+    "C:\\Users\\dennis.costa\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.API\\PaoDuro.API.csproj",
+      "projectUniqueName": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\PaoDuro.API.csproj",
       "projectName": "PaoDuro.API",
-      "projectPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.API\\PaoDuro.API.csproj",
-      "packagesPath": "C:\\Users\\dnns9\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.API\\obj\\",
+      "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\PaoDuro.API.csproj",
+      "packagesPath": "C:\\Users\\dennis.costa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\dnns9\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dennis.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -579,20 +598,24 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\PaoDuro.Application.csproj": {
-              "projectPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\PaoDuro.Application.csproj"
+            "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\PaoDuro.Application.csproj": {
+              "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\PaoDuro.Application.csproj"
             },
-            "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj": {
-              "projectPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj"
+            "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj": {
+              "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj"
             },
-            "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\PaoDuro.Exception.csproj": {
-              "projectPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\PaoDuro.Exception.csproj"
+            "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\PaoDuro.Exception.csproj": {
+              "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\PaoDuro.Exception.csproj"
+            },
+            "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj"
             }
           }
         }
@@ -636,7 +659,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

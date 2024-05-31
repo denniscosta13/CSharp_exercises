@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\",
+  "WorkspaceRootPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\nivel05\\paoduro\\src\\paoduro.api\\filters\\exceptionsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.api\\filters\\exceptionsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|solutionrelative:src\\paoduro.api\\filters\\exceptionsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\nivel05\\paoduro\\src\\paoduro.application\\usecase\\despesas\\register\\registerdespesausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.application\\usecase\\despesas\\register\\registerdespesausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|solutionrelative:src\\paoduro.application\\usecase\\despesas\\register\\registerdespesausecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\nivel05\\paoduro\\src\\paoduro.application\\usecase\\despesas\\register\\registerdespesavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|solutionrelative:src\\paoduro.application\\usecase\\despesas\\register\\registerdespesavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|c:\\users\\dnns9\\source\\repos\\exercicios\\nivel05\\paoduro\\src\\paoduro.api\\controllers\\despesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.api\\controllers\\despesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|solutionrelative:src\\paoduro.api\\controllers\\despesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,50 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ExceptionsFilter.cs",
-              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
+              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
               "RelativeDocumentMoniker": "src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
-              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
+              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
               "RelativeToolTip": "src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAA1AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T16:54:48.136Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegisterDespesaValidator.cs",
-              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaValidator.cs",
-              "RelativeDocumentMoniker": "src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaValidator.cs",
-              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaValidator.cs",
-              "RelativeToolTip": "src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T16:49:21.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RegisterDespesaUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaUseCase.cs",
               "RelativeDocumentMoniker": "src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaUseCase.cs",
-              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaUseCase.cs",
+              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaUseCase.cs",
               "RelativeToolTip": "src\\PaoDuro.Application\\UseCase\\Despesas\\Register\\RegisterDespesaUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T16:49:00.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DespesasController.cs",
-              "DocumentMoniker": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Controllers\\DespesasController.cs",
+              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Controllers\\DespesasController.cs",
               "RelativeDocumentMoniker": "src\\PaoDuro.API\\Controllers\\DespesasController.cs",
-              "ToolTip": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Controllers\\DespesasController.cs",
+              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Controllers\\DespesasController.cs",
               "RelativeToolTip": "src\\PaoDuro.API\\Controllers\\DespesasController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T16:48:53.989Z",
               "EditorCaption": ""

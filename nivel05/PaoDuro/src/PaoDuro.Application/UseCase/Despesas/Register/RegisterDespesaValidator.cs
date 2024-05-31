@@ -1,5 +1,6 @@
 ﻿using FluentValidation;
 using PaoDuro.Communication.Requests;
+using PaoDuro.Exception;
 
 namespace PaoDuro.Application.UseCase.Despesas.Register;
 
@@ -7,10 +8,10 @@ public class RegisterDespesaValidator : AbstractValidator<RequestRegisterDespesa
 {
     public RegisterDespesaValidator()
     {
-        RuleFor(despesa => despesa.Title).NotEmpty().WithMessage("Título é obrigatório.");
-        RuleFor(despesa => despesa.Amount).GreaterThan(0).WithMessage("Valor precisa ser maior que 0.");
-        RuleFor(despesa => despesa.Date).LessThanOrEqualTo(DateTime.UtcNow).WithMessage("Você não pode adicionar despesas futuras.");
-        RuleFor(despesa => despesa.PaymentType).IsInEnum().WithMessage("Forma de pagamento inválida.");
+        RuleFor(despesa => despesa.Title).NotEmpty().WithMessage(ResourceErrorMessages.TITILE_REQUIRED);
+        RuleFor(despesa => despesa.Amount).GreaterThan(0).WithMessage(ResourceErrorMessages.AMOUNT_MUST_BE_GREATER_THAN_ZERO);
+        RuleFor(despesa => despesa.Date).LessThanOrEqualTo(DateTime.UtcNow).WithMessage(ResourceErrorMessages.FUTURE_EXPENSES);
+        RuleFor(despesa => despesa.PaymentType).IsInEnum().WithMessage(ResourceErrorMessages.INVALID_PAYMENT_TYPE);
         
     }
 }
