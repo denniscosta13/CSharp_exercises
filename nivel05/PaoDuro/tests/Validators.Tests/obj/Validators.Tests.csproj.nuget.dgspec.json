@@ -390,6 +390,9 @@
               "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj": {
                 "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj"
               },
+              "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\PaoDuro.Exception.csproj": {
+                "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\PaoDuro.Exception.csproj"
+              },
               "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\CommonTestUtility.csproj": {
                 "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\CommonTestUtility.csproj"
               }
@@ -411,6 +414,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.12.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"

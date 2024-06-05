@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Desafio.Application
-build_property.ProjectDir = C:\Users\dnns9\source\repos\exercicios\nivel04\Desafio\Desafio.Application\
+build_property.ProjectDir = C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel04\Desafio\Desafio.Application\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
