@@ -87,3 +87,8 @@ C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoD
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\obj\Debug\net8.0\PaoDuro.API.pdb
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\obj\Debug\net8.0\PaoDuro.API.genruntimeconfig.cache
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\obj\Debug\net8.0\ref\PaoDuro.API.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll

@@ -41,3 +41,5 @@ C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoD
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Application\obj\Debug\net8.0\refint\PaoDuro.Application.dll
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Application\obj\Debug\net8.0\PaoDuro.Application.pdb
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Application\obj\Debug\net8.0\ref\PaoDuro.Application.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Application\bin\Debug\net8.0\PaoDuro.Infrastructure.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Application\bin\Debug\net8.0\PaoDuro.Infrastructure.pdb
