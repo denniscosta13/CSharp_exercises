@@ -3,7 +3,7 @@ using PaoDuro.Domain.Entities;
 
 namespace PaoDuro.Infrastructure.DataAccess;
 
-public class PaoDuroDbContext : DbContext
+internal class PaoDuroDbContext : DbContext
 {
     public DbSet<Despesa> Despesas { get; set; }
 

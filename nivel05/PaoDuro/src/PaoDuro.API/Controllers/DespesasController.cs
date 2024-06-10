@@ -12,9 +12,8 @@ public class DespesasController : ControllerBase
     [HttpPost]
     [ProducesResponseType(typeof(ResponseRegisterDespesaJson),StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public IActionResult Register([FromBody] RequestRegisterDespesaJson request)
+    public IActionResult Register([FromServices] IRegisterDespesaUseCase useCase , [FromBody] RequestRegisterDespesaJson request)
     {
-            var useCase = new RegisterDespesaUseCase();
             var response = useCase.Execute(request);
 
             return Created(string.Empty, response);

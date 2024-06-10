@@ -2,12 +2,20 @@
 using PaoDuro.Communication.Requests;
 using PaoDuro.Communication.Responses;
 using PaoDuro.Domain.Entities;
+using PaoDuro.Domain.Repositories.Despesas;
 using PaoDuro.Exception.Exceptions;
 
 namespace PaoDuro.Application.UseCase.Despesas.Register;
 
-public class RegisterDespesaUseCase
+public class RegisterDespesaUseCase : IRegisterDespesaUseCase
 {
+    private readonly IDespesasRepository _respository;
+
+    public RegisterDespesaUseCase(IDespesasRepository repository)
+    {
+        _respository = repository;
+    }
+
     public ResponseRegisterDespesaJson Execute(RequestRegisterDespesaJson request)
     {
         Validate(request);
@@ -21,6 +29,7 @@ public class RegisterDespesaUseCase
             PaymentType = (Domain.Enums.PaymentType)request.PaymentType
         };
 
+        _respository.Add(entity);
 
         return new ResponseRegisterDespesaJson();
     }
