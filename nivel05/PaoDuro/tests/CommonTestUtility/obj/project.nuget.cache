@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "dXxE/vd+gZw=",
+  "dgSpecHash": "M3K7LGFhH4OkcyKiHoPA+gNlFLX79i6rs09bXN91bJnQJ09YIbym7fKERk6J/Hv4hH7W0SvuN18h5aA4Z0P5ZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\CommonTestUtility.csproj",
+  "projectFilePath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\CommonTestUtility.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dennis.costa\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512"
+    "C:\\Users\\dnns9\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512"
   ],
   "logs": []
 }
