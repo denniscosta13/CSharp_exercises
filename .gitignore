@@ -1,4 +1,5 @@
-.vs/*
+**/.vs/
+**/Debug
 [Bb]in/
 key
 key.pub
