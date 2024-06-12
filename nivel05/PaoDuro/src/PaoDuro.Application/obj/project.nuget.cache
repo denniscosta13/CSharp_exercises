@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hbZABCzHV88=",
+  "dgSpecHash": "ZYxgR9NZPEx0yVI1Vl/8ngqK94SatLhnBQa1nn+25E9+yF1O7lHl/E0I4EJOCcRTT1QoyQ95CyS/BqZX3sowzw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\PaoDuro.Application.csproj",
+  "projectFilePath": "C:\\Users\\dnns9\\source\\repos\\exercicios\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\PaoDuro.Application.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\dennis.costa\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
-    "C:\\Users\\dennis.costa\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "C:\\Users\\dennis.costa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    "C:\\Users\\dnns9\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\dnns9\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\dnns9\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

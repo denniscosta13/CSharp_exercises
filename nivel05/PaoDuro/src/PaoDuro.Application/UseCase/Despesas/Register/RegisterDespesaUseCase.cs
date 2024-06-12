@@ -2,6 +2,7 @@
 using PaoDuro.Communication.Requests;
 using PaoDuro.Communication.Responses;
 using PaoDuro.Domain.Entities;
+using PaoDuro.Domain.Repositories;
 using PaoDuro.Domain.Repositories.Despesas;
 using PaoDuro.Exception.Exceptions;
 
@@ -10,10 +11,12 @@ namespace PaoDuro.Application.UseCase.Despesas.Register;
 public class RegisterDespesaUseCase : IRegisterDespesaUseCase
 {
     private readonly IDespesasRepository _respository;
+    private readonly IUnitOfWork _unitOfWork;
 
-    public RegisterDespesaUseCase(IDespesasRepository repository)
+    public RegisterDespesaUseCase(IDespesasRepository repository, IUnitOfWork unitOfWork)
     {
         _respository = repository;
+        _unitOfWork = unitOfWork;
     }
 
     public ResponseRegisterDespesaJson Execute(RequestRegisterDespesaJson request)
@@ -30,7 +33,7 @@ public class RegisterDespesaUseCase : IRegisterDespesaUseCase
         };
 
         _respository.Add(entity);
-
+        _unitOfWork.Commit();
         return new ResponseRegisterDespesaJson();
     }
 

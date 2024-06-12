@@ -5,15 +5,8 @@ namespace PaoDuro.Infrastructure.DataAccess;
 
 internal class PaoDuroDbContext : DbContext
 {
+    public PaoDuroDbContext(DbContextOptions options) : base(options) { }
+
     public DbSet<Despesa> Despesas { get; set; }
 
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        //informacoes do servidor que esta o banco de dados
-        var connectionString = "Server=localhost;Database=paodurodb;Uid=root;Pwd=@senha1";
-        //versao do servidor que o banco de dados está rodando, obtido atraves da query: SELECT VERSION();
-        var serverVersion = new MySqlServerVersion(new Version(8,0,37));
-
-        optionsBuilder.UseMySql(connectionString, serverVersion);
-    }
 }
