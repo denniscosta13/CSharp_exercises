@@ -12,9 +12,9 @@ public class DespesasController : ControllerBase
     [HttpPost]
     [ProducesResponseType(typeof(ResponseRegisterDespesaJson),StatusCodes.Status201Created)]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]
-    public IActionResult Register([FromServices] IRegisterDespesaUseCase useCase , [FromBody] RequestRegisterDespesaJson request)
+    public async Task<IActionResult> Register([FromServices] IRegisterDespesaUseCase useCase , [FromBody] RequestRegisterDespesaJson request)
     {
-            var response = useCase.Execute(request);
+            var response = await useCase.Execute(request);
 
             return Created(string.Empty, response);
     }

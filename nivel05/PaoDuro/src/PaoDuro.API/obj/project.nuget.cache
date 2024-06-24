@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zPN9StGvMmg=",
+  "dgSpecHash": "frd7QFyqmNs=",
   "success": true,
   "projectFilePath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\PaoDuro.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dennis.costa\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\dennis.costa\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
     "C:\\Users\\dennis.costa\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.6\\microsoft.entityframeworkcore.8.0.6.nupkg.sha512",
     "C:\\Users\\dennis.costa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.6\\microsoft.entityframeworkcore.abstractions.8.0.6.nupkg.sha512",

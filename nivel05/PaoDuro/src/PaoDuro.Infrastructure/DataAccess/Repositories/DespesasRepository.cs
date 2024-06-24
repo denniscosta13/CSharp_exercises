@@ -12,8 +12,8 @@ internal class DespesasRepository : IDespesasRepository
         this._dbContext = dbContext;
     }
 
-    public void Add(Despesa despesa)
+    public async Task Add(Despesa despesa)
     {
-        _dbContext.Despesas.Add(despesa);
+        await _dbContext.Despesas.AddAsync(despesa);
     }
 }

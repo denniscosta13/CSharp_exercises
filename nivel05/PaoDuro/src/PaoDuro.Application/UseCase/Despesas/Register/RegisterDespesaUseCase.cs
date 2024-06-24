@@ -1,4 +1,5 @@
-﻿using PaoDuro.Communication.Enums;
+﻿using AutoMapper;
+using PaoDuro.Communication.Enums;
 using PaoDuro.Communication.Requests;
 using PaoDuro.Communication.Responses;
 using PaoDuro.Domain.Entities;
@@ -12,29 +13,28 @@ public class RegisterDespesaUseCase : IRegisterDespesaUseCase
 {
     private readonly IDespesasRepository _respository;
     private readonly IUnitOfWork _unitOfWork;
+    private readonly IMapper _mapper;
 
-    public RegisterDespesaUseCase(IDespesasRepository repository, IUnitOfWork unitOfWork)
+    public RegisterDespesaUseCase(
+        IDespesasRepository repository, 
+        IUnitOfWork unitOfWork,
+        IMapper mapper)
     {
         _respository = repository;
         _unitOfWork = unitOfWork;
+        _mapper = mapper;
     }
 
-    public ResponseRegisterDespesaJson Execute(RequestRegisterDespesaJson request)
+    public async Task<ResponseRegisterDespesaJson> Execute(RequestRegisterDespesaJson request)
     {
         Validate(request);
 
-        var entity = new Despesa
-        {
-            Amount = request.Amount,
-            Date = request.Date,
-            Description = request.Description,
-            Title = request.Title,
-            PaymentType = (Domain.Enums.PaymentType)request.PaymentType
-        };
+        var entity = _mapper.Map<Despesa>(request);
 
-        _respository.Add(entity);
-        _unitOfWork.Commit();
-        return new ResponseRegisterDespesaJson();
+        await _respository.Add(entity);
+        await _unitOfWork.Commit();
+
+        return _mapper.Map<ResponseRegisterDespesaJson>(entity);
     }
 
     private void Validate(RequestRegisterDespesaJson request)
