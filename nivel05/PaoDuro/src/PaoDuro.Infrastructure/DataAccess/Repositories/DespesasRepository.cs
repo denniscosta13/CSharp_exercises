@@ -1,4 +1,5 @@
-﻿using PaoDuro.Domain.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using PaoDuro.Domain.Entities;
 using PaoDuro.Domain.Repositories.Despesas;
 
 namespace PaoDuro.Infrastructure.DataAccess.Repositories;
@@ -15,5 +16,10 @@ internal class DespesasRepository : IDespesasRepository
     public async Task Add(Despesa despesa)
     {
         await _dbContext.Despesas.AddAsync(despesa);
+    }
+
+    public async Task<List<Despesa>> GetAll()
+    {
+        return await _dbContext.Despesas.ToListAsync();
     }
 }

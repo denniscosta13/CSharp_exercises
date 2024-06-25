@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaoDuro.Communication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e69ce6a86684aeccc7a92d7d9ae178ea9c6d0e51")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c15ea3653318f5dfa62caf85c7dabc9a94ff93a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaoDuro.Communication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaoDuro.Communication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,5 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using PaoDuro.Application.AutoMapper;
+using PaoDuro.Application.UseCase.Despesas.GetAll;
 using PaoDuro.Application.UseCase.Despesas.Register;
 
 namespace PaoDuro.Application;
@@ -20,5 +21,6 @@ public static class DependencyInjectionExtension
     private static void AddUseCases(IServiceCollection services)
     {
         services.AddScoped<IRegisterDespesaUseCase, RegisterDespesaUseCase>();
+        services.AddScoped<IGetAllDespesasUseCase, GetAllDespesasUseCase>();
     }
 }
