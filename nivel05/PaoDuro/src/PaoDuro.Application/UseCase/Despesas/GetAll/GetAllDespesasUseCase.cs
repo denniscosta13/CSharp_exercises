@@ -6,9 +6,9 @@ namespace PaoDuro.Application.UseCase.Despesas.GetAll
 {
     public class GetAllDespesasUseCase : IGetAllDespesasUseCase
     {
-        private readonly IDespesasRepository _repository;
+        private readonly IDespesasReadOnlyRepository _repository;
         private readonly IMapper _mapper;
-        public GetAllDespesasUseCase(IDespesasRepository repository, IMapper mapper)
+        public GetAllDespesasUseCase(IDespesasReadOnlyRepository repository, IMapper mapper)
         {
             _repository = repository;
             _mapper = mapper;

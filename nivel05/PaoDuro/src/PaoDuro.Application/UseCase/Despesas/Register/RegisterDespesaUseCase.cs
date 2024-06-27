@@ -11,12 +11,12 @@ namespace PaoDuro.Application.UseCase.Despesas.Register;
 
 public class RegisterDespesaUseCase : IRegisterDespesaUseCase
 {
-    private readonly IDespesasRepository _respository;
+    private readonly IDespesasWriteOnlyRepository _respository;
     private readonly IUnitOfWork _unitOfWork;
     private readonly IMapper _mapper;
 
     public RegisterDespesaUseCase(
-        IDespesasRepository repository, 
+        IDespesasWriteOnlyRepository repository, 
         IUnitOfWork unitOfWork,
         IMapper mapper)
     {

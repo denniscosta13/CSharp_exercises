@@ -8,10 +8,10 @@ namespace PaoDuro.Application.UseCase.Despesas.GetById;
 
 public class GetDespesaByIdUseCase : IGetDespesaByIdUseCase
 {
-    private readonly IDespesasRepository _repository;
+    private readonly IDespesasReadOnlyRepository _repository;
     private readonly IMapper _mapper;
 
-    public GetDespesaByIdUseCase(IDespesasRepository repository, IMapper mapper)
+    public GetDespesaByIdUseCase(IDespesasReadOnlyRepository repository, IMapper mapper)
     {
         _mapper = mapper;
         _repository = repository;

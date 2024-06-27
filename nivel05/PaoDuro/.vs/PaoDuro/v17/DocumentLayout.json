@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.api\\filters\\exceptionsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|solutionrelative:src\\paoduro.api\\filters\\exceptionsfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.application\\usecase\\despesas\\getbyid\\getdespesabyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|solutionrelative:src\\paoduro.application\\usecase\\despesas\\getbyid\\getdespesabyidusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D3B24DB-D297-48E9-8FB1-4FDE4B8DE118}|src\\PaoDuro.Exception\\PaoDuro.Exception.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.exception\\exceptions\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3B24DB-D297-48E9-8FB1-4FDE4B8DE118}|src\\PaoDuro.Exception\\PaoDuro.Exception.csproj|solutionrelative:src\\paoduro.exception\\exceptions\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D3B24DB-D297-48E9-8FB1-4FDE4B8DE118}|src\\PaoDuro.Exception\\PaoDuro.Exception.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.exception\\exceptions\\paoduroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3B24DB-D297-48E9-8FB1-4FDE4B8DE118}|src\\PaoDuro.Exception\\PaoDuro.Exception.csproj|solutionrelative:src\\paoduro.exception\\exceptions\\paoduroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D3B24DB-D297-48E9-8FB1-4FDE4B8DE118}|src\\PaoDuro.Exception\\PaoDuro.Exception.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.exception\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D3B24DB-D297-48E9-8FB1-4FDE4B8DE118}|src\\PaoDuro.Exception\\PaoDuro.Exception.csproj|solutionrelative:src\\paoduro.exception\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}|src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.infrastructure\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}|src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj|solutionrelative:src\\paoduro.infrastructure\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ErrorOnValidationException.cs",
-              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\Exceptions\\ErrorOnValidationException.cs",
-              "RelativeDocumentMoniker": "src\\PaoDuro.Exception\\Exceptions\\ErrorOnValidationException.cs",
-              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\Exceptions\\ErrorOnValidationException.cs",
-              "RelativeToolTip": "src\\PaoDuro.Exception\\Exceptions\\ErrorOnValidationException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T19:06:50.639Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PaoDuroException.cs",
-              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\Exceptions\\PaoDuroException.cs",
-              "RelativeDocumentMoniker": "src\\PaoDuro.Exception\\Exceptions\\PaoDuroException.cs",
-              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\Exceptions\\PaoDuroException.cs",
-              "RelativeToolTip": "src\\PaoDuro.Exception\\Exceptions\\PaoDuroException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T19:03:17.721Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "src\\PaoDuro.Exception\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Exception\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "src\\PaoDuro.Exception\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T18:55:56.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ExceptionsFilter.cs",
-              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
-              "RelativeDocumentMoniker": "src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
-              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
-              "RelativeToolTip": "src\\PaoDuro.API\\Filters\\ExceptionsFilter.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAgwCQAAABUAAAA",
+              "Title": "DependencyInjectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Infrastructure\\DependencyInjectionExtension.cs",
+              "RelativeDocumentMoniker": "src\\PaoDuro.Infrastructure\\DependencyInjectionExtension.cs",
+              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Infrastructure\\DependencyInjectionExtension.cs",
+              "RelativeToolTip": "src\\PaoDuro.Infrastructure\\DependencyInjectionExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T18:53:38.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GetDespesaByIdUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\GetById\\GetDespesaByIdUseCase.cs",
-              "RelativeDocumentMoniker": "src\\PaoDuro.Application\\UseCase\\Despesas\\GetById\\GetDespesaByIdUseCase.cs",
-              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\GetById\\GetDespesaByIdUseCase.cs",
-              "RelativeToolTip": "src\\PaoDuro.Application\\UseCase\\Despesas\\GetById\\GetDespesaByIdUseCase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T18:36:35.637Z",
+              "WhenOpened": "2024-06-27T20:18:35.235Z",
               "EditorCaption": ""
             }
           ]
