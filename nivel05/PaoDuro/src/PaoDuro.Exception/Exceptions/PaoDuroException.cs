@@ -2,5 +2,8 @@
 
 public abstract class PaoDuroException : SystemException
 {
-
+    protected PaoDuroException(string message) :base(message)
+    {
+        
+    }
 }

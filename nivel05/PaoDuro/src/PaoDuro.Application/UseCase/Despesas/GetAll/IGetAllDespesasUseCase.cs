@@ -4,5 +4,5 @@ namespace PaoDuro.Application.UseCase.Despesas.GetAll;
 
 public interface IGetAllDespesasUseCase
 {
-    Task<ResponseDespesaJson> Execute();
+    Task<ResponseDespesasJson> Execute();
 }

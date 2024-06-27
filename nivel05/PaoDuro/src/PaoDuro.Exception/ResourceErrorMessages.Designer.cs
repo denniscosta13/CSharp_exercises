@@ -70,6 +70,15 @@ namespace PaoDuro.Exception {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Expense not found..
+        /// </summary>
+        public static string EXPENSE_NOT_FOUND {
+            get {
+                return ResourceManager.GetString("EXPENSE_NOT_FOUND", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to You can&apos;t add future expenses.
         /// </summary>
         public static string FUTURE_EXPENSES {

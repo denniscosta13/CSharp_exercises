@@ -120,6 +120,9 @@
   <data name="AMOUNT_MUST_BE_GREATER_THAN_ZERO" xml:space="preserve">
     <value>Le montant doit être supérieur à zéro.</value>
   </data>
+  <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
+    <value>Dépense introuvable.</value>
+  </data>
   <data name="FUTURE_EXPENSES" xml:space="preserve">
     <value>Les dépenses ne peuvent pas être futures.</value>
   </data>
@@ -130,6 +133,6 @@
     <value>Le titre est obligatoire.</value>
   </data>
   <data name="UNKNOWN_ERROR" xml:space="preserve">
-    <value>Erreur inconnue</value>
+    <value>Erreur inconnue.</value>
   </data>
 </root>

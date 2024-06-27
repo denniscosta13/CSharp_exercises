@@ -1,6 +1,13 @@
-﻿namespace PaoDuro.Communication.Responses;
+﻿using PaoDuro.Communication.Enums;
+
+namespace PaoDuro.Communication.Responses;
 
 public class ResponseDespesaJson
 {
-    public List<ResponseShortDespesaJson> Despesas { get; set; } = [];
+    public long Id { get; set; }
+    public string Title { get; set; } = string.Empty;
+    public string? Description { get; set; } = string.Empty;
+    public DateTime Date { get; set; }
+    public decimal Amount { get; set; }
+    public PaymentType PaymentType { get; set; }
 }

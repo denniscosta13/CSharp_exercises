@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using PaoDuro.Application.UseCase.Despesas.GetAll;
+using PaoDuro.Application.UseCase.Despesas.GetById;
 using PaoDuro.Application.UseCase.Despesas.Register;
 using PaoDuro.Communication.Requests;
 using PaoDuro.Communication.Responses;
@@ -21,7 +22,7 @@ public class DespesasController : ControllerBase
     }
 
     [HttpGet]
-    [ProducesResponseType(typeof(ResponseDespesaJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(typeof(ResponseDespesasJson), StatusCodes.Status200OK)]
     [ProducesResponseType(StatusCodes.Status204NoContent)]
     public async Task<IActionResult> GetAllDespesas([FromServices] IGetAllDespesasUseCase useCase)
     {
@@ -31,5 +32,16 @@ public class DespesasController : ControllerBase
             return Ok(response);
         
         return NoContent();
+    }
+
+    [HttpGet]
+    [Route("{id}")]
+    [ProducesResponseType(typeof(ResponseDespesaJson), StatusCodes.Status200OK)]
+    [ProducesResponseType(StatusCodes.Status404NotFound)]
+    public async Task<IActionResult> GetById([FromServices] IGetDespesaByIdUseCase useCase, [FromRoute] long id)
+    {
+        var response = await useCase.Execute(id);
+
+        return Ok(response);
     }
 }

@@ -120,6 +120,9 @@
   <data name="AMOUNT_MUST_BE_GREATER_THAN_ZERO" xml:space="preserve">
     <value>Amount must be greater than zero.</value>
   </data>
+  <data name="EXPENSE_NOT_FOUND" xml:space="preserve">
+    <value>Expense not found.</value>
+  </data>
   <data name="FUTURE_EXPENSES" xml:space="preserve">
     <value>You can't add future expenses</value>
   </data>

@@ -14,11 +14,11 @@ namespace PaoDuro.Application.UseCase.Despesas.GetAll
             _mapper = mapper;
         }
 
-        public async Task<ResponseDespesaJson> Execute()
+        public async Task<ResponseDespesasJson> Execute()
         {
             var result = await _repository.GetAll();
 
-            return new ResponseDespesaJson
+            return new ResponseDespesasJson
             {
                 Despesas = _mapper.Map<List<ResponseShortDespesaJson>>(result)
             };
