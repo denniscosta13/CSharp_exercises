@@ -1,6 +1,6 @@
 ﻿using CommonTestUtility.Requests;
 using FluentAssertions;
-using PaoDuro.Application.UseCase.Despesas.Register;
+using PaoDuro.Application.UseCase.Despesas;
 using PaoDuro.Communication.Enums;
 using PaoDuro.Exception;
 
@@ -12,7 +12,7 @@ public class RegisterDespesaValidatorTests
     public void Success()
     {
         //Arrange
-        var validator = new RegisterDespesaValidator();
+        var validator = new DespesaValidator();
         var request = RequestRegisterDespesaJsonBuilder.Build();
 
 
@@ -31,7 +31,7 @@ public class RegisterDespesaValidatorTests
     public void Error_Title_Empty(string title)
     {
         //Arrange
-        var validator = new RegisterDespesaValidator();
+        var validator = new DespesaValidator();
         var request = RequestRegisterDespesaJsonBuilder.Build();
         request.Title = title;
 
@@ -48,7 +48,7 @@ public class RegisterDespesaValidatorTests
     public void Error_Date_Future()
     {
         //Arrange
-        var validator = new RegisterDespesaValidator();
+        var validator = new DespesaValidator();
         var request = RequestRegisterDespesaJsonBuilder.Build();
         request.Date = DateTime.UtcNow.AddDays(1);
 
@@ -64,7 +64,7 @@ public class RegisterDespesaValidatorTests
     public void Error_PaymentType_Invalid()
     {
         //Arrange
-        var validator = new RegisterDespesaValidator();
+        var validator = new DespesaValidator();
         var request = RequestRegisterDespesaJsonBuilder.Build();
         request.PaymentType = (PaymentType)10;
 
@@ -83,7 +83,7 @@ public class RegisterDespesaValidatorTests
     public void Error_Amount_Invalid(decimal amount)
     {
         //Arrange
-        var validator = new RegisterDespesaValidator();
+        var validator = new DespesaValidator();
         var request = RequestRegisterDespesaJsonBuilder.Build();
         request.Amount = amount;
 

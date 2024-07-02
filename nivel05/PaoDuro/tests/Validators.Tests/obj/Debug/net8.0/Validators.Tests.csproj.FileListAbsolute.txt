@@ -118,3 +118,8 @@ C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\Va
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\Validators.Tests\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\Validators.Tests\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\Validators.Tests\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\Validators.Tests\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\Validators.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\Validators.Tests\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\Validators.Tests\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\tests\Validators.Tests\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll

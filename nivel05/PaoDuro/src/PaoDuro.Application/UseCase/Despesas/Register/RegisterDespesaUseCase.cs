@@ -25,7 +25,7 @@ public class RegisterDespesaUseCase : IRegisterDespesaUseCase
         _mapper = mapper;
     }
 
-    public async Task<ResponseRegisterDespesaJson> Execute(RequestRegisterDespesaJson request)
+    public async Task<ResponseDespesaJson> Execute(RequestDespesaJson request)
     {
         Validate(request);
 
@@ -34,12 +34,12 @@ public class RegisterDespesaUseCase : IRegisterDespesaUseCase
         await _respository.Add(entity);
         await _unitOfWork.Commit();
 
-        return _mapper.Map<ResponseRegisterDespesaJson>(entity);
+        return _mapper.Map<ResponseDespesaJson>(entity);
     }
 
-    private void Validate(RequestRegisterDespesaJson request)
+    private void Validate(RequestDespesaJson request)
     {
-        var validator = new RegisterDespesaValidator();
+        var validator = new DespesaValidator();
         var result = validator.Validate(request);
 
         if (!result.IsValid)

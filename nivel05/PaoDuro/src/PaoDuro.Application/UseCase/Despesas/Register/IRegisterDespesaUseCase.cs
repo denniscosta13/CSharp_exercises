@@ -5,5 +5,5 @@ namespace PaoDuro.Application.UseCase.Despesas.Register;
 
 public interface IRegisterDespesaUseCase
 {
-    Task<ResponseRegisterDespesaJson> Execute(RequestRegisterDespesaJson request);
+    Task<ResponseDespesaJson> Execute(RequestDespesaJson request);
 }

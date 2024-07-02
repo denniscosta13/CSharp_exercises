@@ -6,4 +6,7 @@ public abstract class PaoDuroException : SystemException
     {
         
     }
+
+    public abstract int StatusCode { get; }
+    public abstract List<string> GetErrors();
 }

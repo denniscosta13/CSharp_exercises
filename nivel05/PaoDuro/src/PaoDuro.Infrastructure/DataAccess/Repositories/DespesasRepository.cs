@@ -5,7 +5,7 @@ using PaoDuro.Domain.Repositories.Despesas;
 namespace PaoDuro.Infrastructure.DataAccess.Repositories;
 
 //internal para que o projeto de API nao enxergue essa classe, ela seja vista apenas dentro de infrastructure
-internal class DespesasRepository : IDespesasReadOnlyRepository, IDespesasWriteOnlyRepository
+internal class DespesasRepository : IDespesasReadOnlyRepository, IDespesasWriteOnlyRepository, IDespesasUpdateOnlyRepository
 {
     private readonly PaoDuroDbContext _dbContext;
     public DespesasRepository(PaoDuroDbContext dbContext)
@@ -23,8 +23,32 @@ internal class DespesasRepository : IDespesasReadOnlyRepository, IDespesasWriteO
         return await _dbContext.Despesas.AsNoTracking().ToListAsync();
     }
 
-    public async Task<Despesa?> GetById(long id)
+    async Task<Despesa?> IDespesasReadOnlyRepository.GetById(long id)
     {
         return await _dbContext.Despesas.AsNoTracking().FirstOrDefaultAsync(e => e.Id == id);
+    }
+
+    async Task<Despesa?> IDespesasUpdateOnlyRepository.GetById(long id)
+    {
+        return await _dbContext.Despesas.FirstOrDefaultAsync(e => e.Id == id);
+    }
+
+    public async Task<bool> Delete(long id)
+    {
+        var result = await _dbContext.Despesas.FirstOrDefaultAsync(e => e.Id == id);
+
+        if (result is null)
+        {
+            return false;
+        }
+
+        _dbContext.Despesas.Remove(result);
+
+        return true;
+    }
+
+    public void Update(Despesa despesa)
+    {
+        _dbContext.Despesas.Update(despesa);
     }
 }

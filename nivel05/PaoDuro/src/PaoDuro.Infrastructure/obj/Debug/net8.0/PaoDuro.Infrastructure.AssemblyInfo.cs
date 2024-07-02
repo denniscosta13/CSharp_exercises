@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaoDuro.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41bf23ac2a4de0dfad2ba023763192f123412c5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+535645202d8c9f3f89f59284d7fd511fbd341e56")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaoDuro.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaoDuro.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

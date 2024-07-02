@@ -6,7 +6,7 @@ namespace CommonTestUtility.Requests;
 
 public  class RequestRegisterDespesaJsonBuilder
 {
-    public static RequestRegisterDespesaJson Build()
+    public static RequestDespesaJson Build()
     {
 
         /* 
@@ -20,7 +20,7 @@ public  class RequestRegisterDespesaJsonBuilder
              PaymentType = 
          };*/
 
-        return new Faker<RequestRegisterDespesaJson>()
+        return new Faker<RequestDespesaJson>()
             .RuleFor(req => req.Title, faker => faker.Commerce.ProductName())
             .RuleFor(req => req.Description, faker => faker.Commerce.ProductDescription())
             .RuleFor(req => req.Date, faker => faker.Date.Past())
