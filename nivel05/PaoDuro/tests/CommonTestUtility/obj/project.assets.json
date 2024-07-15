@@ -60,23 +60,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dennis.costa\\.nuget\\packages\\": {},
+    "C:\\Users\\dnns9\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\CommonTestUtility.csproj",
+      "projectUniqueName": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\CommonTestUtility.csproj",
       "projectName": "CommonTestUtility",
-      "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\CommonTestUtility.csproj",
-      "packagesPath": "C:\\Users\\dennis.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\obj\\",
+      "projectPath": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\CommonTestUtility.csproj",
+      "packagesPath": "C:\\Users\\dnns9\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\tests\\CommonTestUtility\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\dennis.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\dnns9\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -85,15 +85,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj": {
-              "projectPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj"
+            "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj": {
+              "projectPath": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Communication\\PaoDuro.Communication.csproj"
             }
           }
         }
@@ -134,7 +133,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
