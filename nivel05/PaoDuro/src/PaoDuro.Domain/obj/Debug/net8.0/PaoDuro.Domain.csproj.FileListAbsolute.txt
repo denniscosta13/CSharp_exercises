@@ -34,3 +34,8 @@ C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\
 C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\obj\Debug\net8.0\refint\PaoDuro.Domain.dll
 C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\obj\Debug\net8.0\PaoDuro.Domain.pdb
 C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\obj\Debug\net8.0\ref\PaoDuro.Domain.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\bin\Debug\net8.0\pt-BR\PaoDuro.Domain.resources.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\obj\Debug\net8.0\PaoDuro.Domain.Reports.ResourceReportGenerationMessages.resources
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\obj\Debug\net8.0\PaoDuro.Domain.Reports.ResourceReportGenerationMessages.pt-BR.resources
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\obj\Debug\net8.0\PaoDuro.Domain.csproj.GenerateResource.cache
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\obj\Debug\net8.0\pt-BR\PaoDuro.Domain.resources.dll

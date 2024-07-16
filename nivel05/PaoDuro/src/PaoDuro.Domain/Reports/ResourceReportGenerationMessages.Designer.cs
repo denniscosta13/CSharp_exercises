@@ -61,7 +61,7 @@ namespace PaoDuro.Domain.Reports {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Valor.
+        ///   Looks up a localized string similar to Amount.
         /// </summary>
         public static string AMOUNT {
             get {
@@ -70,7 +70,7 @@ namespace PaoDuro.Domain.Reports {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Data.
+        ///   Looks up a localized string similar to Date.
         /// </summary>
         public static string DATE {
             get {
@@ -79,7 +79,7 @@ namespace PaoDuro.Domain.Reports {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Descrição.
+        ///   Looks up a localized string similar to Description.
         /// </summary>
         public static string DESCRIPTION {
             get {
@@ -88,7 +88,7 @@ namespace PaoDuro.Domain.Reports {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Tipo de Pagament.
+        ///   Looks up a localized string similar to Payment Type.
         /// </summary>
         public static string PAYMENT_TYPE {
             get {
@@ -97,7 +97,7 @@ namespace PaoDuro.Domain.Reports {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Título.
+        ///   Looks up a localized string similar to Title.
         /// </summary>
         public static string TITLE {
             get {

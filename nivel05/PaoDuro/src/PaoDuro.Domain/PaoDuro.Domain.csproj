@@ -13,9 +13,9 @@
       <AutoGen>True</AutoGen>
     </Compile>
     <Compile Update="Reports\ResourceReportGenerationMessages.Designer.cs">
+      <DependentUpon>ResourceReportGenerationMessages.resx</DependentUpon>
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>
-      <DependentUpon>ResourceReportGenerationMessages.resx</DependentUpon>
     </Compile>
   </ItemGroup>
 
@@ -25,8 +25,8 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
     <EmbeddedResource Update="Reports\ResourceReportGenerationMessages.resx">
-      <Generator>PublicResXFileCodeGenerator</Generator>
       <LastGenOutput>ResourceReportGenerationMessages.Designer.cs</LastGenOutput>
+      <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
   </ItemGroup>
 

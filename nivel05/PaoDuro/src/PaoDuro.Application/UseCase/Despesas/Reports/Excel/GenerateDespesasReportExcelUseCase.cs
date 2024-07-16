@@ -14,10 +14,15 @@ public class GenerateDespesasReportExcelUseCase : IGenerateDespesasReportExcelUs
         workbook.Style.Font.FontName = "Calibri";
         var worksheet = workbook.Worksheets.Add(month.ToString("Y"));
 
-        Insertheader(worksheet);
+        InsertHeader(worksheet);
+
+        var file = new MemoryStream();
+        workbook.SaveAs(file);
+        
+        return file.ToArray();
     }
 
-    private void Insertheader(IXLWorksheet worksheet)
+    private void InsertHeader(IXLWorksheet worksheet)
     {
         worksheet.Cell("A1").Value = ResourceReportGenerationMessages.TITLE;
         worksheet.Cell("B1").Value = ResourceReportGenerationMessages.DATE;

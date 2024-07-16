@@ -46,3 +46,4 @@ C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\
 C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Infrastructure\obj\Debug\net8.0\refint\PaoDuro.Infrastructure.dll
 C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Infrastructure\obj\Debug\net8.0\PaoDuro.Infrastructure.pdb
 C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Infrastructure\obj\Debug\net8.0\ref\PaoDuro.Infrastructure.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Infrastructure\bin\Debug\net8.0\pt-BR\PaoDuro.Domain.resources.dll

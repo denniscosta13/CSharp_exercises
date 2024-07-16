@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaoDuro.Exception")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe485462dd8bd8193c033caf36010041110f5516")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a10948859b2ccae24a0ec56038a13f0200b03d97")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaoDuro.Exception")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaoDuro.Exception")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
