@@ -51,4 +51,22 @@ internal class DespesasRepository : IDespesasReadOnlyRepository, IDespesasWriteO
     {
         _dbContext.Despesas.Update(despesa);
     }
+
+    public async Task<List<Despesa>> FilterByMonth(DateOnly date)
+    {
+        var startDate = new DateTime(year: date.Year, month: date.Month, day: 1).Date;
+        
+        var lastDayOfMonth = DateTime.DaysInMonth(date.Year, date.Month);
+        var endDate = new DateTime(year: date.Year, month: date.Month, day: lastDayOfMonth, hour: 23, minute: 59, second:59).Date;
+
+
+        
+        return await _dbContext
+            .Despesas
+            .AsNoTracking()
+            .Where(despesa => despesa.Date >= startDate && despesa.Date <= endDate)
+            .OrderBy(despesa => despesa.Date)
+            .ThenBy(despesa => despesa.Title)
+            .ToListAsync();
+    }
 }

@@ -7,6 +7,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Update="Reports\PaymentTypeDescription.pt-BR.Designer.cs">
+      <DependentUpon>PaymentTypeDescription.pt-BR.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Update="Reports\PaymentTypeDescription.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>PaymentTypeDescription.resx</DependentUpon>
+    </Compile>
     <Compile Update="Reports\ResourceReportGenerationMessages.pt-BR.Designer.cs">
       <DependentUpon>ResourceReportGenerationMessages.pt-BR.resx</DependentUpon>
       <DesignTime>True</DesignTime>
@@ -20,6 +30,14 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="Reports\PaymentTypeDescription.pt-BR.resx">
+      <LastGenOutput>PaymentTypeDescription.pt-BR.Designer.cs</LastGenOutput>
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Reports\PaymentTypeDescription.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>PaymentTypeDescription.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Update="Reports\ResourceReportGenerationMessages.pt-BR.resx">
       <LastGenOutput>ResourceReportGenerationMessages.pt-BR.Designer.cs</LastGenOutput>
       <Generator>PublicResXFileCodeGenerator</Generator>

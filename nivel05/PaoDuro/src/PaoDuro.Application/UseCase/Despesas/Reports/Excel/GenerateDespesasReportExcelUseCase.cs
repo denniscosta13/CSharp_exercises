@@ -1,12 +1,27 @@
 ﻿using ClosedXML.Excel;
+using PaoDuro.Domain.Enums;
 using PaoDuro.Domain.Reports;
+using PaoDuro.Domain.Repositories.Despesas;
 
 namespace PaoDuro.Application.UseCase.Despesas.Reports.Excel;
 
 public class GenerateDespesasReportExcelUseCase : IGenerateDespesasReportExcelUseCase
 {
+    private readonly IDespesasReadOnlyRepository _repository;
+
+    public GenerateDespesasReportExcelUseCase(IDespesasReadOnlyRepository repository)
+    {
+        _repository = repository;
+    }
     public async Task<byte[]> Execute(DateOnly month)
     {
+        var despesas = await _repository.FilterByMonth(month);
+
+        if (despesas.Count == 0) 
+        {
+            return [];
+        }
+        
         var workbook = new XLWorkbook();
 
         workbook.Author = "Dennis";
@@ -16,10 +31,34 @@ public class GenerateDespesasReportExcelUseCase : IGenerateDespesasReportExcelUs
 
         InsertHeader(worksheet);
 
+        var row = 2;
+        foreach (var despesa in despesas) 
+        {
+            worksheet.Cell($"A{row}").Value = despesa.Title;
+            worksheet.Cell($"B{row}").Value = despesa.Date;
+            worksheet.Cell($"C{row}").Value = ConvertPaymentType(despesa.PaymentType);
+            worksheet.Cell($"D{row}").Value = despesa.Amount;
+            worksheet.Cell($"E{row}").Value = despesa.Description;
+            row++;
+
+        }
+
         var file = new MemoryStream();
         workbook.SaveAs(file);
         
         return file.ToArray();
+    }
+
+    private string ConvertPaymentType(PaymentType paymentType)
+    {
+        return paymentType switch
+        {
+            PaymentType.BankTransfer => PaymentTypeDescription.BANK_TRANSFER,
+            PaymentType.Cash => PaymentTypeDescription.CASH,
+            PaymentType.DebitCard => PaymentTypeDescription.DEBIT_CARD,
+            PaymentType.CreditCard => PaymentTypeDescription.CREDIT_CARD,
+            _ => string.Empty
+        };
     }
 
     private void InsertHeader(IXLWorksheet worksheet)
