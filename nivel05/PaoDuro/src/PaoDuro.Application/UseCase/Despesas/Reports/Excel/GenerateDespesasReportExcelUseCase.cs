@@ -7,6 +7,7 @@ namespace PaoDuro.Application.UseCase.Despesas.Reports.Excel;
 
 public class GenerateDespesasReportExcelUseCase : IGenerateDespesasReportExcelUseCase
 {
+    private const string CURRENCY_SYMBOL = "$";
     private readonly IDespesasReadOnlyRepository _repository;
 
     public GenerateDespesasReportExcelUseCase(IDespesasReadOnlyRepository repository)
@@ -22,7 +23,7 @@ public class GenerateDespesasReportExcelUseCase : IGenerateDespesasReportExcelUs
             return [];
         }
         
-        var workbook = new XLWorkbook();
+        using var workbook = new XLWorkbook();
 
         workbook.Author = "Dennis";
         workbook.Style.Font.FontSize = 12;
@@ -37,11 +38,16 @@ public class GenerateDespesasReportExcelUseCase : IGenerateDespesasReportExcelUs
             worksheet.Cell($"A{row}").Value = despesa.Title;
             worksheet.Cell($"B{row}").Value = despesa.Date;
             worksheet.Cell($"C{row}").Value = ConvertPaymentType(despesa.PaymentType);
+
             worksheet.Cell($"D{row}").Value = despesa.Amount;
+            worksheet.Cell($"D{row}").Style.NumberFormat.Format = $"-{CURRENCY_SYMBOL}#,##0.00";
+
             worksheet.Cell($"E{row}").Value = despesa.Description;
             row++;
 
         }
+
+        worksheet.Columns().AdjustToContents();
 
         var file = new MemoryStream();
         workbook.SaveAs(file);

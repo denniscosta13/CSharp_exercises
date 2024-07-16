@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|solutionrelative:src\\paoduro.application\\usecase\\despesas\\reports\\excel\\generatedespesasreportexcelusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}|src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj|c:\\users\\dnns9\\documents\\rocketseat\\csharp\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.infrastructure\\dataaccess\\repositories\\despesasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}|src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj|solutionrelative:src\\paoduro.infrastructure\\dataaccess\\repositories\\despesasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|c:\\users\\dnns9\\documents\\rocketseat\\csharp\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|solutionrelative:src\\paoduro.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}|src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj|c:\\users\\dnns9\\documents\\rocketseat\\csharp\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.infrastructure\\dataaccess\\repositories\\despesasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}|src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj|solutionrelative:src\\paoduro.infrastructure\\dataaccess\\repositories\\despesasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DespesasRepository.cs",
               "DocumentMoniker": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Infrastructure\\DataAccess\\Repositories\\DespesasRepository.cs",
               "RelativeDocumentMoniker": "src\\PaoDuro.Infrastructure\\DataAccess\\Repositories\\DespesasRepository.cs",
               "ToolTip": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Infrastructure\\DataAccess\\Repositories\\DespesasRepository.cs",
               "RelativeToolTip": "src\\PaoDuro.Infrastructure\\DataAccess\\Repositories\\DespesasRepository.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAA3wEcAAAABAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAA7wD8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-16T22:13:41.361Z",
               "EditorCaption": ""
@@ -49,20 +49,20 @@
               "RelativeDocumentMoniker": "src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Excel\\GenerateDespesasReportExcelUseCase.cs",
               "ToolTip": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Excel\\GenerateDespesasReportExcelUseCase.cs",
               "RelativeToolTip": "src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Excel\\GenerateDespesasReportExcelUseCase.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAYwCYAAABVAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBkAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T23:07:40.355Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ReportController.cs",
               "DocumentMoniker": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Controllers\\ReportController.cs",
               "RelativeDocumentMoniker": "src\\PaoDuro.API\\Controllers\\ReportController.cs",
               "ToolTip": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Controllers\\ReportController.cs",
               "RelativeToolTip": "src\\PaoDuro.API\\Controllers\\ReportController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-15T22:38:11.931Z",
               "EditorCaption": ""
