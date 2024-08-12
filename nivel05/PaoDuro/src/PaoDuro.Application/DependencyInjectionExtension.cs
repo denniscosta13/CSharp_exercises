@@ -5,6 +5,7 @@ using PaoDuro.Application.UseCase.Despesas.GetAll;
 using PaoDuro.Application.UseCase.Despesas.GetById;
 using PaoDuro.Application.UseCase.Despesas.Register;
 using PaoDuro.Application.UseCase.Despesas.Reports.Excel;
+using PaoDuro.Application.UseCase.Despesas.Reports.Pdf;
 using PaoDuro.Application.UseCase.Despesas.Update;
 
 namespace PaoDuro.Application;
@@ -30,5 +31,6 @@ public static class DependencyInjectionExtension
         services.AddScoped<IDeleteDespesaUseCase, DeleteDespesaUseCase>();
         services.AddScoped<IUpdateDespesaUseCase, UpdateDespesaUseCase>();
         services.AddScoped<IGenerateDespesasReportExcelUseCase, GenerateDespesasReportExcelUseCase>();
+        services.AddScoped<IGenerateDespesaReportPdfUseCase, GenerateDespesaReportPdfUseCase>();
     }
 }
