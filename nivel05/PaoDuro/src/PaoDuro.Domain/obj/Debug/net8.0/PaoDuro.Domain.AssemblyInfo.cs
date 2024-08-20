@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaoDuro.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e2e05cab8f1901f1e858b31fbc4f93ca0c9546b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2f46ee3dbe4e4a8aee7ea1f031ae446a0293b02")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaoDuro.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaoDuro.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

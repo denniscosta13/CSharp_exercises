@@ -164,3 +164,17 @@ C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\
 C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\System.IO.Packaging.dll
 C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\XLParser.dll
 C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\pt-BR\PaoDuro.Domain.resources.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\MigraDoc.DocumentObjectModel.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\MigraDoc.Rendering.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\MigraDoc.RtfRendering.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\PdfSharp.Charting.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\PdfSharp.Quality.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\PdfSharp.Snippets.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\PdfSharp.System.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\PdfSharp.WPFonts.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\PdfSharp.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\de\MigraDoc.DocumentObjectModel.resources.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\de\MigraDoc.Rendering.resources.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\de\MigraDoc.RtfRendering.resources.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.API\bin\Debug\net8.0\de\PdfSharp.resources.dll
