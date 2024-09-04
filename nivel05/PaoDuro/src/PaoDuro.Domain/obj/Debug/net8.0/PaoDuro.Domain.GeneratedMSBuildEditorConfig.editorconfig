@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PaoDuro.Domain
-build_property.ProjectDir = C:\Users\dnns9\Documents\rocketseat\csharp\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\
+build_property.ProjectDir = C:\Users\dennis.costa\Documents\dennis\CSharp_exercises\nivel05\PaoDuro\src\PaoDuro.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

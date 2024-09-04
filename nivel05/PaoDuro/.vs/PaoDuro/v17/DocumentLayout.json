@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\",
+  "WorkspaceRootPath": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|c:\\users\\dnns9\\documents\\rocketseat\\csharp\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.application\\usecase\\despesas\\reports\\pdf\\generatedespesareportpdfusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.application\\usecase\\despesas\\reports\\pdf\\generatedespesareportpdfusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|solutionrelative:src\\paoduro.application\\usecase\\despesas\\reports\\pdf\\generatedespesareportpdfusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|c:\\users\\dnns9\\documents\\rocketseat\\csharp\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.application\\usecase\\despesas\\reports\\pdf\\fonts\\despesasreportfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|solutionrelative:src\\paoduro.application\\usecase\\despesas\\reports\\pdf\\fonts\\despesasreportfontresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.application\\usecase\\despesas\\reports\\pdf\\colors\\colorshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC705753-24DD-496D-AA72-42CF69F0A2A1}|src\\PaoDuro.Application\\PaoDuro.Application.csproj|solutionrelative:src\\paoduro.application\\usecase\\despesas\\reports\\pdf\\colors\\colorshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|c:\\users\\dnns9\\documents\\rocketseat\\csharp\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E414D7A7-B698-4FE3-8721-A76FB66D8F27}|src\\PaoDuro.API\\PaoDuro.API.csproj|solutionrelative:src\\paoduro.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}|src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj|c:\\users\\dennis.costa\\documents\\dennis\\csharp_exercises\\nivel05\\paoduro\\src\\paoduro.infrastructure\\dataaccess\\repositories\\despesasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B85D14FC-2A18-4A80-98DC-7ED71A62BADD}|src\\PaoDuro.Infrastructure\\PaoDuro.Infrastructure.csproj|solutionrelative:src\\paoduro.infrastructure\\dataaccess\\repositories\\despesasrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +31,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DespesasReportFontResolver.cs",
-              "DocumentMoniker": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\Fonts\\DespesasReportFontResolver.cs",
-              "RelativeDocumentMoniker": "src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\Fonts\\DespesasReportFontResolver.cs",
-              "ToolTip": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\Fonts\\DespesasReportFontResolver.cs",
-              "RelativeToolTip": "src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\Fonts\\DespesasReportFontResolver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Title": "ColorsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\Colors\\ColorsHelper.cs",
+              "RelativeDocumentMoniker": "src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\Colors\\ColorsHelper.cs",
+              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\Colors\\ColorsHelper.cs",
+              "RelativeToolTip": "src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\Colors\\ColorsHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T22:56:11.542Z",
+              "WhenOpened": "2024-09-04T11:33:36.959Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ReportController.cs",
-              "DocumentMoniker": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Controllers\\ReportController.cs",
-              "RelativeDocumentMoniker": "src\\PaoDuro.API\\Controllers\\ReportController.cs",
-              "ToolTip": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.API\\Controllers\\ReportController.cs",
-              "RelativeToolTip": "src\\PaoDuro.API\\Controllers\\ReportController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "DespesasRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Infrastructure\\DataAccess\\Repositories\\DespesasRepository.cs",
+              "RelativeDocumentMoniker": "src\\PaoDuro.Infrastructure\\DataAccess\\Repositories\\DespesasRepository.cs",
+              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Infrastructure\\DataAccess\\Repositories\\DespesasRepository.cs",
+              "RelativeToolTip": "src\\PaoDuro.Infrastructure\\DataAccess\\Repositories\\DespesasRepository.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAmwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T22:32:21.177Z",
+              "WhenOpened": "2024-09-04T11:26:05.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GenerateDespesaReportPdfUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\GenerateDespesaReportPdfUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\GenerateDespesaReportPdfUseCase.cs",
               "RelativeDocumentMoniker": "src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\GenerateDespesaReportPdfUseCase.cs",
-              "ToolTip": "C:\\Users\\dnns9\\Documents\\rocketseat\\csharp\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\GenerateDespesaReportPdfUseCase.cs",
+              "ToolTip": "C:\\Users\\dennis.costa\\Documents\\dennis\\CSharp_exercises\\nivel05\\PaoDuro\\src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\GenerateDespesaReportPdfUseCase.cs",
               "RelativeToolTip": "src\\PaoDuro.Application\\UseCase\\Despesas\\Reports\\Pdf\\GenerateDespesaReportPdfUseCase.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAIwGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwEIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T22:26:08.209Z",
+              "WhenOpened": "2024-09-04T11:17:30.19Z",
               "EditorCaption": ""
             }
           ]
